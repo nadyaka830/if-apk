@@ -1,0 +1,6 @@
+{
+  "name": "IF03 Academic",
+  "description": "Pusat informasi akademik mahasiswa Informatika 03 (IF03) - Jadwal Kuliah, Deadline Tugas, dan Kelompok Aktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
